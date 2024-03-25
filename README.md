@@ -1,6 +1,6 @@
-# Animal-Adoption
+# Animal Adoption
 # CS 302 Winter Quarter 2024
-
+# DLL
 <pre> 
 // Templates, Operator Overloading, Exception Handeling, DLL, std::Vector
 
