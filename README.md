@@ -9,11 +9,11 @@
 // A std::vector to generate random personalities
 // Allow A random animal to be adopted from those inserted
 
-/*                  Pet
+                    Pet
         /            |           \
     Working     Competitive      Breeding
         \            |           /
             DLL Node Template
                      |
-       Data Structure DLL Template        */
+       Data Structure DLL Template       
 </pre>
